@@ -1,0 +1,11 @@
+# JavaScript node dependencies
+/node_modules/
+
+#VS Code setting files
+.vscode/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.env
+
